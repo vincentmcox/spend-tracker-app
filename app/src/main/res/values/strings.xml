@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Spend Tracker</string>
+
+    <!-- Generic strings -->
+    <string name="btn_str_done">Done</string>
+    <string name="btn_str_cancel">Cancel</string>
+    <string name="btn_str_reset">Reset</string>
+    <string name="btn_str_add_env">Add envelope</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Expandable List Child strings -->
+    <string name="str_weekly">Weekly budget: £</string>
+    <string name="str_spent">Spent this week: £</string>
+    <string name="str_remaining">Left for spending: £</string>
+    <string name="btn_spend">Enter spend</string>
+    <string name="btn_edit">Edit</string>
+    <string name="title_activity_edit">EditActivity</string>
+
+    <!--Edit Activity strings -->
+    <string name="str_edit_title">Edit Envelope</string>
+    <string name="str_hint_envelope">Enter envelope name</string>
+    <string name="str_hint_weeklyamount">Enter weekly budget</string>
+
+
+</resources>
